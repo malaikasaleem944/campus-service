@@ -19,3 +19,6 @@ version control and automated testing.
 - TortoiseGit
 - GitHub
 - GitHub Actions
+## Testing
+The project uses Node.js built-in test runner.
+Two unit tests verify positive and negative inputs.
